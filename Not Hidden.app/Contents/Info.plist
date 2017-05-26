@@ -30,7 +30,7 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>Hidden</string>
+	<string>Not Hidden</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
@@ -44,12 +44,14 @@
 	</dict>
 	<key>LSRequiresCarbon</key>
 	<true/>
+	<key>NSHumanReadableCopyright</key>
+	<string>David Stringfellow</string>
 	<key>WindowState</key>
 	<dict>
 		<key>bundleDividerCollapsed</key>
-		<true/>
+		<false/>
 		<key>bundlePositionOfDivider</key>
-		<real>0.0</real>
+		<real>727</real>
 		<key>dividerCollapsed</key>
 		<false/>
 		<key>eventLogLevel</key>
@@ -59,7 +61,7 @@
 		<key>positionOfDivider</key>
 		<real>704</real>
 		<key>savedFrame</key>
-		<string>45 58 1026 955 0 0 1680 1028 </string>
+		<string>93 73 1026 955 0 0 1680 1028 </string>
 		<key>selectedTab</key>
 		<string>result</string>
 	</dict>
